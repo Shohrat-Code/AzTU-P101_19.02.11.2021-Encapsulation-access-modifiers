@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\bin\Debug\net5.0\EncapsulaAccessModifier.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\bin\Debug\net5.0\EncapsulaAccessModifier.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\bin\Debug\net5.0\EncapsulaAccessModifier.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\bin\Debug\net5.0\EncapsulaAccessModifier.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\bin\Debug\net5.0\EncapsulaAccessModifier.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\bin\Debug\net5.0\ref\EncapsulaAccessModifier.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\bin\Debug\net5.0\EncapsulaAccessModifier.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\obj\Debug\net5.0\EncapsulaAccessModifier.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\obj\Debug\net5.0\EncapsulaAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\obj\Debug\net5.0\EncapsulaAccessModifier.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\obj\Debug\net5.0\EncapsulaAccessModifier.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\obj\Debug\net5.0\EncapsulaAccessModifier.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\obj\Debug\net5.0\EncapsulaAccessModifier.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\obj\Debug\net5.0\ref\EncapsulaAccessModifier.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\obj\Debug\net5.0\EncapsulaAccessModifier.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\19.02.11.2021\Codes\EncapsulaAccessModifier\EncapsulaAccessModifier\obj\Debug\net5.0\EncapsulaAccessModifier.genruntimeconfig.cache
